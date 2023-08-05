@@ -1,2 +1,2 @@
 # WebDevelopment
-This is the repository created by me during web development.
+This is the repository created by me during learning web development.
